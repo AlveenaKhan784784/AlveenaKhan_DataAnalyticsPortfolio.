@@ -3,7 +3,7 @@
 
 **Location**: Karachi, Pakistan  
 **Education**: Bachelors of Science in Mathematics, University of Karachi  
- Minor in Statistics and physics
+  Minor in Statistics and physics.
 **GitHub**: [My GitHub Link]()  
 **LinkedIn**: [My LinkedIn Profile]()  
 **Email**: [My email]() 
