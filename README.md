@@ -3,8 +3,8 @@
 
 **Location**: Karachi, Pakistan  
 **Education**: Bachelors of Science in Mathematics, University of Karachi  
-  Expected graduation: December,2025
-  Minor in Statistics and physics.
+  Expected graduation: December,2025.
+  Minor in Statistics and Physics.
   
 **GitHub**: [My GitHub Link](https://github.com/dashboard)  
 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)  
