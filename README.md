@@ -26,7 +26,7 @@ I am a Mathematics major with a strong interest in both Data Science and Data An
 ### 1. Ames Housing Price Prediction
 - **Description**: Predicted housing prices using a variety of regression techniques. Focused on data cleaning, feature selection, and hyperparameter tuning to optimize model performance.
 - **Technologies Used**: Python, Pandas, Matplotlib, Scikit-learn
-- **Key Outcomes**: Implemented linear regression and random forest models, achieving a Root Mean Square Error (RMSE) of .
+- **Key Outcomes**: Implemented linear regression and random forest models, achieving a Root Mean Square Error (RMSE).
 - **GitHub**: [Ames Housing Price Prediction Repository](https://github.com/AlveenaKhan784784/Ames-Housing-Price-Prediction)
 
 ### 2. Credit Card Fraud Detection
@@ -49,7 +49,7 @@ I am a Mathematics major with a strong interest in both Data Science and Data An
 
 ## Contact Me
 
-- **Email**: [your.email@example.com](alveenakhan853@gmail.com)
-- **GitHub**: [Your GitHub Link](https://github.com/dashboard)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/feed/)
+- **Email**: [My Gmail](alveenakhan853@gmail.com)
+- **GitHub**: [My GitHub Link](https://github.com/dashboard)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)
 
