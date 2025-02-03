@@ -11,15 +11,15 @@
 
 ## About Me
 
-I am a Mathematics major with a strong interest in both Data Science and Data Analysis. With a foundation in statistical analysis and programming, I leverage data to generate insights and build predictive models. My portfolio showcases diverse projects ranging from exploratory data analysis to machine learning implementations. I am passionate about using data to solve real-world problems and continuously expanding my knowledge in the fields of Data Science and Data Analysis.
+I am a Mathematics major with a strong interest in both Data Science and Data Analytics. With a foundation in statistical analysis and programming, I leverage data to generate insights and build predictive models. My portfolio showcases diverse projects ranging from exploratory data analysis to machine learning implementations. I am passionate about using data to solve real-world problems and continuously expanding my knowledge in the fields of Data Science and Data Analytics.
 
 ## Skills
 
 - **Programming Languages**: Python
-- **Data Analysis**: Exploratory Data Analysis, Data Cleaning, Data Visualization, Feature Engineering, Statistical Analysis
-- **Machine Learning**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, K-Means Clustering, K-Nearest Neighbors
+- **Data Analysis**: Data Preprocessing, Exploratory Data Analysis, Data Cleaning, Data Visualization, Feature Engineering, Statistical Analysis
+- **Machine Learning**: Linear Regression, Logistic Regression, Decision Trees, K-Nearest Neighbors
 - **Data Visualization**: Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook, Git, GitHub, Pandas, NumPy, Scikit-learn
+- **Tools**: Jupyter Notebook, Pandas, NumPy, Scikit-learn
 
 ## Projects
 
@@ -47,9 +47,11 @@ I am a Mathematics major with a strong interest in both Data Science and Data An
 - **Key Outcomes**: Achieved high accuracy in personality prediction using logistic regression and random forest classifiers.
 - **GitHub**: [Personality Detection Repository](https://github.com/AlveenaKhan784784/Personality-Detection)
 
-## Contact Me
+## Conclusion & Future Aspirations
 
-- **Email**: [My Gmail](alveenakhan853@gmail.com)
-- **GitHub**: [My GitHub Link](https://github.com/dashboard)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)
+I am a passionate data analytics enthusiast with a strong foundation in Python, SQL, and data preprocessing. My portfolio showcases projects where I have applied data cleaning, exploratory data analysis (EDA), and visualization techniques to extract meaningful insights. Through hands-on experience with datasets like mentioned above, I have developed a keen interest in business-driven data analysis.
+
+To further strengthen my data analytics skills, I am currently enrolled in a 5-month Applied data science and machine learning course, where I am learning advanced data visualization (Power BI/Tableau), SQL, statistical analysis, business intelligence, and predictive modeling techniques. This course is helping me develop a deeper understanding of how data-driven insights impact decision-making in real-world scenarios.
+
+I am actively seeking a Data Analytics Internship where I can apply my knowledge and continue learning in a real-world business environment. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/) or explore my work on [GitHub](https://github.com/dashboard). I look forward to collaborating and gaining hands-on experience in the field of data analytics!"
 
