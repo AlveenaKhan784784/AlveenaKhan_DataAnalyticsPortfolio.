@@ -1,8 +1,9 @@
-# DataScienceAndAnalysisPortfolio
+# DataScience-And-AnalyticsPortfolio
 # Alveena Khan
 
 **Location**: Karachi, Pakistan  
 **Education**: Bachelors of Science in Mathematics, University of Karachi  
+  Expected graduation: December,2025
   Minor in Statistics and physics.
   
 **GitHub**: [My GitHub Link](https://github.com/dashboard)  
@@ -11,7 +12,7 @@
 
 ## About Me
 
-I am a Mathematics major with a strong interest in both Data Science and Data Analytics. With a foundation in statistical analysis and programming, I leverage data to generate insights and build predictive models. My portfolio showcases diverse projects ranging from exploratory data analysis to machine learning implementations. I am passionate about using data to solve real-world problems and continuously expanding my knowledge in the fields of Data Science and Data Analytics.
+I am a Mathematics major final year student with a strong interest in both Data Science and Data Analytics. With a foundation in statistical analysis and programming, I leverage data to generate insights and build predictive models. My portfolio showcases diverse projects ranging from exploratory data analysis to machine learning implementations. I am passionate about using data to solve real-world problems and continuously expanding my knowledge in the fields of Data Science and Data Analytics.
 
 ## Skills
 
