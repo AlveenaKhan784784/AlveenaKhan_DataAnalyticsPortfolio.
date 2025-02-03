@@ -8,7 +8,7 @@
   
 **GitHub**: [My GitHub Link](https://github.com/dashboard)  
 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)  
-**Email**: [My email](alveenakhan853@gmail.com) 
+**Email**: alveenakhan853@gmail.com 
 
 ## About Me
 
