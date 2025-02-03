@@ -53,5 +53,5 @@ I am a passionate data analytics enthusiast with a strong foundation in Python, 
 
 To further strengthen my data analytics skills, I am currently enrolled in a 5-month Applied data science and machine learning course, where I am learning advanced data visualization (Power BI/Tableau), SQL, statistical analysis, business intelligence, and predictive modeling techniques. This course is helping me develop a deeper understanding of how data-driven insights impact decision-making in real-world scenarios.
 
-I am actively seeking a Data Analytics Internship where I can apply my knowledge and continue learning in a real-world business environment. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/) or explore my work on [GitHub](https://github.com/dashboard). I look forward to collaborating and gaining hands-on experience in the field of data analytics!"
+I am actively seeking a Data Analytics Internship where I can apply my knowledge and continue learning in a real-world business environment. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/) or explore my work on [GitHub](https://github.com/dashboard). I look forward to collaborating and gaining hands-on experience in the field of data analytics!
 
