@@ -12,11 +12,12 @@
 
 ## About Me
 
-I am a Mathematics major final year student with a strong interest in both Data Science and Data Analytics. With a foundation in statistical analysis and programming, I leverage data to generate insights and build predictive models. My portfolio showcases diverse projects ranging from exploratory data analysis to machine learning implementations. I am passionate about using data to solve real-world problems and continuously expanding my knowledge in the fields of Data Science and Data Analytics.
+I am a Mathematics major final year student with a strong interest in both Data Science and Data Analytics. With a foundation in statistical analysis and programming, I leverage data to generate insights and build predictive models. My portfolio showcases diverse projects ranging from Data preprocessing, exploratory data analysis to machine learning implementations. I am passionate about using data to solve real-world problems and continuously expanding my knowledge in the fields of Data Science and Data Analytics.
 
 ## Skills
 
 - **Programming Languages**: Python
+- **Data Preprocessing**: Understanding data, handling missing values, Handling duplicates, Handling outliers, Encode categorical variables, Feature scaling(Normalization and standardization), Feature selection.
 - **Data Analysis**: Data Preprocessing, Exploratory Data Analysis, Data Cleaning, Data Visualization, Feature Engineering, Statistical Analysis
 - **Machine Learning**: Linear Regression, Logistic Regression, Decision Trees, K-Nearest Neighbors
 - **Data Visualization**: Matplotlib, Seaborn
@@ -50,9 +51,9 @@ I am a Mathematics major final year student with a strong interest in both Data 
 
 ## Conclusion & Future Aspirations
 
-I am a passionate data analytics enthusiast with a strong foundation in Python, SQL, and data preprocessing. My portfolio showcases projects where I have applied data cleaning, exploratory data analysis (EDA), and visualization techniques to extract meaningful insights. Through hands-on experience with datasets like mentioned above, I have developed a keen interest in business-driven data analysis.
+I am a passionate data analytics enthusiast with a strong foundation in Python, SQL, and data preprocessing, data visualization. My portfolio showcases projects where I have applied data cleaning, exploratory data analysis (EDA), and visualization techniques to extract meaningful insights. Through hands-on experience with datasets like mentioned above, I have developed a keen interest in business-driven data analysis.
 
-To further strengthen my data analytics skills, I am currently enrolled in a 5-month Applied data science and machine learning course, where I am learning advanced data visualization (Power BI/Tableau), SQL, statistical analysis, business intelligence, and predictive modeling techniques. This course is helping me develop a deeper understanding of how data-driven insights impact decision-making in real-world scenarios.
+To further strengthen my data analytics skills, I am currently enrolled in a 5-month Applied data science and machine learning course at Techma Zone, where I am learning advanced data visualization (Power BI/Tableau), SQL, statistical analysis, business intelligence, and predictive modeling techniques. This course is helping me develop a deeper understanding of how data-driven insights impact decision-making in real-world scenarios.
 
 I am actively seeking a Data Analytics Internship where I can apply my knowledge and continue learning in a real-world business environment. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/) or explore my work on [GitHub](https://github.com/dashboard). I look forward to collaborating and gaining hands-on experience in the field of data analytics!
 
